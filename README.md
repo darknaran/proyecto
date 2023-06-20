@@ -9,8 +9,15 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 
 #Diagrama de flujo
 
-![image](https://github.com/darknaran/proyecto/assets/112526473/24c0f205-1b3c-46ef-aa50-5525bc4483d4)
-![image](https://github.com/darknaran/proyecto/assets/112526473/b1545c60-6b21-4813-ab4d-c4498ca64a41)
+![image](https://github.com/darknaran/proyecto/assets/112526473/a3331c1e-1cf9-436f-b78b-46ede5e5c5e5)
+
+![image](https://github.com/darknaran/proyecto/assets/112526473/ebf6bf23-4343-4a65-b0ad-e31cb9f672df)
+
+![image](https://github.com/darknaran/proyecto/assets/112526473/9fa4bba2-b575-436e-9a5f-9aeeb6d8bcad)
+
+![image](https://github.com/darknaran/proyecto/assets/112526473/f374257a-3776-4b7a-b2c8-cfbced77590f)
+
+
 
 # pseudocódigo
 
