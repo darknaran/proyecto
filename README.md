@@ -7,7 +7,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 # Caso de uso
 ![image](https://github.com/darknaran/proyecto/assets/112526473/89effa73-7e96-4688-a346-b38cc3553892)
 
-#Diagrama de flujo
+# Diagrama de flujo
 
 ![image](https://github.com/darknaran/proyecto/assets/112526473/a3331c1e-1cf9-436f-b78b-46ede5e5c5e5)
 
