@@ -51,19 +51,24 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 		leer cantidad19;
 		leer cantidad20;
 		leer cantidad21;
-		promedio1 = (cantidad1+cantidad4+cantidad7+cantidad10+cantidad13+cantidad16+cantidad19)/7
 		Escribir "el promedio de panes vendidos durante la semana de tipo:" nombre1 " es:"
-		Escribir promedio1;
+		para x<- 1 Hasta 7 con paso 1 Hacer
+			Escribir x,"x",promedio1,"=", x = (cantidad1+cantidad4+cantidad7+cantidad10+cantidad13+cantidad16+cantidad19)/7
+		FinPara
 		promedioprecio1 =(cantidad1+cantidad4+cantidad7+cantidad10+cantidad13+cantidad16+cantidad19)*(valor1)
 		Escribir " y las ganacias durante la semana de los panes de tipo:" nombre1 " es:" 
 		Escribir promedioprecio1;
-		promedio2 = (cantidad2+cantidad5+cantidad8+cantidad11+cantidad14+cantidad17+cantidad20)/7
+		para promedio2<- 1 Hasta 7 con paso 1 Hacer
+			Escribir promedio2,"x",promedio1,"=", promedio2 =  (cantidad2+cantidad5+cantidad8+cantidad11+cantidad14+cantidad17+cantidad20)/7
+		FinPara
 		Escribir "el promedio de panes vendidos durante la semana de tipo:" nombre2 " es:"
 		Escribir promedio2;
 		promedioprecio2 =(cantidad2+cantidad5+cantidad8+cantidad11+cantidad14+cantidad17+cantidad20)*(valor2)
 		Escribir " y las ganacias durante la semana de los panes de tipo:" nombre2 " es:" 
 		Escribir promedioprecio2;
-		promedio3 = (cantidad3+cantidad6+cantidad9+cantidad12+cantidad15+cantidad18+cantidad21)/7
+		para promedio3<- 1 Hasta 7 con paso 1 Hacer
+			Escribir promedio3,"x",promedio1,"=", promedio3 =  (cantidad3+cantidad6+cantidad9+cantidad12+cantidad15+cantidad18+cantidad21)/7
+		FinPara
 		Escribir "el promedio de panes vendidos durante la semana de tipo:" nombre3 " es:"
 		Escribir promedio3;
 		promedioprecio3 =(cantidad3+cantidad6+cantidad9+cantidad12+cantidad15+cantidad18+cantidad21)*(valor3)
@@ -71,7 +76,4 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 		Escribir promedioprecio3;
 		promediogeneral =(promedio1+promedio2+promedio3)/3
 		ventastotales =(promedioprecio1+promedioprecio2+promedioprecio3)
-		Escribir"el promedio general de cantidad de panes vendidos es:	" prmediogeneral;
-		Escribir "la ganancia general duralte la semana fue	;	" ventastotales;
-	FinAlgoritmo
  
