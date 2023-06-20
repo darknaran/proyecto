@@ -10,7 +10,7 @@ En su labor como programador de software ha sido elegido para el desarrollo de u
 ![image](https://github.com/darknaran/proyecto/assets/112526473/24c0f205-1b3c-46ef-aa50-5525bc4483d4)
 ![image](https://github.com/darknaran/proyecto/assets/112526473/b1545c60-6b21-4813-ab4d-c4498ca64a41)
 
-#psudo codigo
+# pseudocódigo
 
 	  Algoritmo panaderia_joselito
 		Escribir  "Ingrese el nombre de los tres tipos de pan:"
